@@ -149,7 +149,4 @@ This project is for research purposes only. Please contact the authors for usage
 ---
 
 ## 🙏 Acknowledgments
-
-- [CLIP](https://github.com/openai/CLIP) — pretrained ViT-B/32 and tokenizer
-- [GETNET](https://github.com/crabwq/GETNET) — China hyperspectral change detection dataset
 - The remote sensing datasets from various public sources
