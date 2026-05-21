@@ -1,0 +1,9 @@
+中国江苏盐城数据
+1）下载地址：http://crabwq.github.io/，王琦老师的个人主页，GETNET提供的数据集和代码中
+Q. Wang, Z. Yuan, Q. Du, and X. Li GETNET: A General End-to-end Two-dimensional CNN Framework for Hyperspectral Image Change Detection IEEE Transactions on Geoscience and Remote Sensing (T-GRS) vol. 57, no. 1, pp. 3-13, 2019
+
+2）China_20060503.mat： 450* 140*155
+3）China_20070423.mat： 450* 140*155
+4）China_GT.mat：450* 140，二类变化检测reference，0为未变化，1为变化
+
+
